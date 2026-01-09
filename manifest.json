@@ -2,5 +2,11 @@
   "manifest_version": 3,
   "name": "noteMe",
   "version": "0.1.0",
-  "description": "save stuff from the web"
+  "description": "save stuff from the web",
+  "permissions": [
+    "storage",
+    "activeTab",
+    "scripting",
+    "contextMenus"
+  ]
 }
