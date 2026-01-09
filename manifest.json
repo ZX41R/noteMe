@@ -1,0 +1,6 @@
+{
+  "manifest_version": 3,
+  "name": "noteMe",
+  "version": "0.1.0",
+  "description": "save stuff from the web"
+}
