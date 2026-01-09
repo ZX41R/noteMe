@@ -8,5 +8,8 @@
     "activeTab",
     "scripting",
     "contextMenus"
-  ]
+  ],
+  "background": {
+    "service_worker": "src/background.js"
+  }
 }
